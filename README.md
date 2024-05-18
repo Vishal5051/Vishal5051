@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal5051&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
 
-<!--
-**Vishal5051/Vishal5051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishal5051&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal5051" alt="GitHub Streak" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e4730zmjvnvjf49em52l7ggu321owhtzqgtsh924yr2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF"/>
+</div>
+<div align="center">
+  Liked My profile? Follow to stay in touch
+</div>
