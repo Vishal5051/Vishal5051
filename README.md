@@ -1,3 +1,10 @@
+<h1 align="center">Greetings, I'm Vishal Chandora🚀</h1>
+<h3 align="center">A Full stack Web Developer  from India 🌟</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishal5051&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishal5051&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
